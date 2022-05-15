@@ -1,2 +1,2 @@
 # praticando
-praticando js
+praticando js and git
